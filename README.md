@@ -20,7 +20,7 @@ npm install discord.js axios dotenv
 
 ### 2. Configure Environment Variables
 
-Create and open the `.env` file in your project folder. Add the following variables and their corresponding values:
+Open the `.env` file in the '/src' folder. Add the following variables and their corresponding values:
 
 - **TOKEN:** Your bot's token. You can get it from the [Discord Developer Portal](https://discord.com/developers/applications). Navigate to your bot application, go to the "Bot" section, and copy the token.
   
